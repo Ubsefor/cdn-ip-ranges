@@ -23,7 +23,7 @@ The script reads official public endpoints provided by the vendors (RIPE Stat fo
 
 ### Automation
 
-GitHub Actions (`.github/workflows/update-cdn-lists.yml`) executes the script every 12 hours and commits changes whenever new prefixes appear.
+GitHub Actions (`.github/workflows/update-cdn-lists.yml`) executes the script every 3 hours and commits changes whenever new prefixes appear.
 
 ---
 
@@ -62,4 +62,4 @@ python3 scripts/update_cdn_lists.py
 
 ### Автоматизация
 
-GitHub Actions (`.github/workflows/update-cdn-lists.yml`) выполняет обновление каждые 12 часов и коммитит изменения, если появились новые подсети.
+GitHub Actions (`.github/workflows/update-cdn-lists.yml`) выполняет обновление каждые 3 часа и коммитит изменения, если появились новые подсети.
