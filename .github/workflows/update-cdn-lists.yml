@@ -29,7 +29,7 @@ jobs:
         run: python3 scripts/generate_geoip_dat.py
 
       - name: Set commit name
-        run: echo "COMMIT_NAME=$(date -u +%Y%m%d%H%M)" >> $GITHUB_ENV
+        run: echo "COMMIT_NAME=Sched-Update-$(date -u +%Y%m%d%H%M)" >> $GITHUB_ENV
 
       - name: Commit and push if changes exist
         uses: stefanzweifel/git-auto-commit-action@v7
