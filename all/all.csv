@@ -8420,6 +8420,7 @@ aws,35.60.0.0/15,mx-central-1
 aws,35.71.64.0/22,us-west-2
 aws,35.71.68.0/22,us-east-1
 aws,35.71.72.0/22,eu-west-1
+aws,35.71.76.0/22,us-east-1
 aws,35.71.93.0/24,ap-southeast-6
 aws,35.71.94.0/24,eusc-de-east-1
 aws,35.71.96.0/24,ap-southeast-3
