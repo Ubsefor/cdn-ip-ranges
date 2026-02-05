@@ -14658,6 +14658,7 @@ aws,2631:0:7::/48,eu-west-1
 aws,2631:0:8::/48,eu-central-1
 aws,2631:0:9::/48,us-west-2
 aws,2631:0:1800::/39,us-west-2
+aws,2631:1:105::/48,us-west-2
 aws,2804:800::/48,sa-east-1
 aws,2804:800:ff00::/48,sa-east-1
 aws,2a01:578:0:12::/64,eu-west-2
