@@ -14476,6 +14476,7 @@ aws,2606:7b40:1a2f:c330::/60,us-west-2
 aws,2606:7b40:1a3f:c200::/60,us-west-2
 aws,2606:7b40:1a3f:c310::/60,us-west-2
 aws,2606:7b40:1a3f:c320::/60,us-west-2
+aws,2606:7b40:1a3f:c330::/60,us-west-2
 aws,2606:7b40:1a4f:c200::/60,us-west-2
 aws,2606:7b40:1a4f:c240::/60,us-west-2
 aws,2606:7b40:1a4f:c310::/60,us-west-2
@@ -14483,6 +14484,7 @@ aws,2606:7b40:1a4f:c320::/60,us-west-2
 aws,2606:7b40:1b00:500::/56,us-west-1
 aws,2606:7b40:1b00:600::/56,us-east-2
 aws,2606:7b40:1b00:700::/56,us-west-2
+aws,2606:7b40:1b05::/56,ap-southeast-6
 aws,2606:7b40:1b05:4000::/56,ap-southeast-7
 aws,2606:7b40:1b05:c000::/56,ap-northeast-1
 aws,2606:7b40:1b05:c100::/56,ap-northeast-1
@@ -16956,6 +16958,7 @@ cloudflare,162.159.240.0/20,
 cloudflare,162.251.82.0/24,
 cloudflare,162.251.205.0/24,
 cloudflare,165.101.60.0/23,
+cloudflare,166.88.240.0/24,
 cloudflare,167.1.137.0/24,
 cloudflare,167.74.94.0/23,
 cloudflare,167.74.130.0/24,
@@ -19004,6 +19007,7 @@ cloudflare,2400:cb00:a8f2::/48,
 cloudflare,2400:cb00:a941::/48,
 cloudflare,2400:cb00:a971::/48,
 cloudflare,2400:cb00:a972::/48,
+cloudflare,2400:cb00:a981::/48,
 cloudflare,2400:cb00:a982::/48,
 cloudflare,2400:cb00:a9a1::/48,
 cloudflare,2400:cb00:a9f1::/48,
