@@ -12745,7 +12745,7 @@ aws,2406:da18:fff:f800::/56,ap-southeast-1
 aws,2406:da18:8000::/36,ap-southeast-1
 aws,2406:da19::/36,ap-southeast-3
 aws,2406:da19:14b:8c00::/56,ap-southeast-3
-aws,2406:da1a::/36,ap-south-1
+aws,2406:da1a::/35,ap-south-1
 aws,2406:da1a:74a:4b00::/56,ap-south-1
 aws,2406:da1a:8000::/36,ap-southeast-1
 aws,2406:da1b::/36,ap-south-2
