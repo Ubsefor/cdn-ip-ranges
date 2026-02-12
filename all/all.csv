@@ -14474,7 +14474,7 @@ aws,2606:7b40:10ff:e270::/60,us-west-2
 aws,2606:7b40:10ff:f000::/56,us-west-2
 aws,2606:7b40:10ff:f270::/60,us-west-2
 aws,2606:7b40:10ff:ff00::/56,us-west-2
-aws,2606:7b40:1800::/48,us-west-2
+aws,2606:7b40:1800::/40,us-west-2
 aws,2606:7b40:1a2c:330::/60,eu-central-1
 aws,2606:7b40:1a2f:c200::/60,us-west-2
 aws,2606:7b40:1a2f:c310::/60,us-west-2
