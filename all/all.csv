@@ -11079,6 +11079,8 @@ aws,69.107.12.32/29,eu-west-2
 aws,69.107.12.40/29,eu-west-2
 aws,69.107.12.48/29,eu-west-2
 aws,69.107.12.56/29,eu-west-2
+aws,69.107.12.64/29,ap-east-1
+aws,69.107.12.72/29,ap-east-1
 aws,69.230.192.0/18,cn-northwest-1
 aws,69.230.219.0/24,cn-northwest-1
 aws,69.230.226.0/24,cn-northwest-1
