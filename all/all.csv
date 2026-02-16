@@ -8309,6 +8309,7 @@ aws,35.34.98.0/24,ap-south-1
 aws,35.34.99.0/24,us-east-1
 aws,35.34.100.0/24,us-east-1
 aws,35.34.101.0/24,us-west-1
+aws,35.34.102.0/24,ap-east-1
 aws,35.42.0.0/16,eu-south-2
 aws,35.43.0.0/16,eu-south-2
 aws,35.44.0.0/15,eu-south-2
