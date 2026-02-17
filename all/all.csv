@@ -14040,6 +14040,8 @@ aws,2600:f0f0:400::/44,GLOBAL
 aws,2600:f0f0:500::/48,us-east-1
 aws,2600:f0f0:600::/55,us-east-1
 aws,2600:f0f0:600:200::/55,us-east-1
+aws,2600:f0f0:601::/48,GLOBAL
+aws,2600:f0f0:602::/47,GLOBAL
 aws,2600:f0f0:700::/44,us-east-1
 aws,2600:f0f0:720::/48,eu-central-1
 aws,2600:f0f0:721::/48,eu-central-1
