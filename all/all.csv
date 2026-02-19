@@ -14330,7 +14330,7 @@ aws,2600:f0f2:710a::/48,ap-northeast-3
 aws,2600:f0f2:710b::/48,af-south-1
 aws,2600:f0f2:7140::/48,us-gov-west-1
 aws,2600:f0f2:7148::/48,us-west-2
-aws,2600:f0f3:f000::/44,GLOBAL
+aws,2600:f0f3:f000::/44,us-gov-west-1
 aws,2600:f0fb:8000::/40,us-west-2
 aws,2600:f0fb:e000::/40,us-east-1
 aws,2600:f0fb:e100::/40,us-east-1
@@ -35446,6 +35446,7 @@ fastly,2a04:4e40:8cf0::/48,
 fastly,2a04:4e40:8cf1::/48,
 fastly,2a04:4e40:8e00::/48,
 fastly,2a04:4e40:9000::/48,
+fastly,2a04:4e40:90f0::/48,
 fastly,2a04:4e40:9200::/48,
 fastly,2a04:4e40:9400::/48,
 fastly,2a04:4e40:9401::/48,
