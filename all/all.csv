@@ -6473,6 +6473,7 @@ aws,15.129.24.0/22,ap-northeast-1
 aws,15.129.28.0/24,ca-central-1
 aws,15.129.29.0/24,eu-south-1
 aws,15.129.30.0/24,sa-east-1
+aws,15.129.31.0/24,eu-west-1
 aws,15.134.0.0/16,ap-southeast-2
 aws,15.134.66.0/23,ap-southeast-2
 aws,15.135.0.0/16,ap-southeast-2
@@ -7705,6 +7706,8 @@ aws,16.163.63.64/26,ap-east-1
 aws,16.163.196.0/22,ap-east-1
 aws,16.163.206.0/23,ap-east-1
 aws,16.164.0.0/16,il-central-1
+aws,16.164.22.0/31,il-central-1
+aws,16.164.22.4/30,il-central-1
 aws,16.165.0.0/16,il-central-1
 aws,16.168.0.0/15,eu-north-1
 aws,16.170.0.0/15,eu-north-1
@@ -14599,6 +14602,8 @@ aws,2606:7b40:1b0f:300::/56,us-east-1
 aws,2606:7b40:1b0f:400::/56,us-east-1
 aws,2606:7b40:1b0f:4000::/56,us-east-2
 aws,2606:7b40:1b0f:4100::/56,us-east-2
+aws,2606:7b40:1b0f:4200::/56,us-east-2
+aws,2606:7b40:1b0f:4300::/56,us-east-2
 aws,2606:7b40:1b0f:8000::/56,us-west-1
 aws,2606:7b40:1b0f:8100::/56,us-west-1
 aws,2606:7b40:1b0f:c000::/56,us-west-2
