@@ -8733,6 +8733,7 @@ aws,40.193.0.0/16,ap-south-2
 aws,40.194.0.0/16,ap-south-2
 aws,40.195.0.0/16,ap-south-2
 aws,40.201.0.0/16,ca-west-1
+aws,40.235.64.0/18,us-east-1
 aws,40.238.0.0/16,ap-southeast-2
 aws,40.239.0.0/16,ap-southeast-2
 aws,43.192.0.0/16,cn-northwest-1
@@ -37153,7 +37154,7 @@ oracle,82.26.110.0/24,
 oracle,82.27.123.0/24,
 oracle,82.29.42.0/24,
 oracle,82.29.69.0/24,
-oracle,82.70.32.0/19,
+oracle,82.70.32.0/19,eu-stockholm-1
 oracle,82.70.224.0/20,eu-marseille-1
 oracle,82.70.248.0/22,eu-marseille-1
 oracle,84.8.64.0/21,
@@ -38437,7 +38438,7 @@ oracle,146.235.254.0/23,us-chicago-1
 oracle,147.5.128.0/17,
 oracle,147.15.0.0/17,sa-saopaulo-1
 oracle,147.15.128.0/19,ca-montreal-1
-oracle,147.15.192.0/18,
+oracle,147.15.192.0/18,us-ashburn-1
 oracle,147.154.0.0/19,us-ashburn-1
 oracle,147.154.0.0/20,
 oracle,147.154.16.0/20,
@@ -38474,7 +38475,9 @@ oracle,147.224.0.0/21,
 oracle,147.224.8.0/21,us-sanjose-1
 oracle,147.224.32.0/19,us-sanjose-1
 oracle,147.224.64.0/22,
-oracle,147.224.68.0/22,
+oracle,147.224.64.0/24,us-chicago-1
+oracle,147.224.66.0/23,us-chicago-1
+oracle,147.224.68.0/22,ap-hyderabad-1
 oracle,147.224.128.0/18,us-chicago-1
 oracle,147.224.192.0/19,us-chicago-1
 oracle,147.224.224.0/20,sa-valparaiso-1
