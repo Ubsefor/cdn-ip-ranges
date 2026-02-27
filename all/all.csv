@@ -34751,6 +34751,7 @@ digitalocean,167.172.240.0/20,US-NJ
 digitalocean,168.144.0.0/22,IN-KA
 digitalocean,168.144.4.0/22,DE-HE
 digitalocean,168.144.16.0/20,IN-KA
+digitalocean,168.144.32.0/20,SG-05
 digitalocean,170.64.128.0/18,AU-NSW
 digitalocean,170.64.192.0/19,AU-NSW
 digitalocean,170.64.224.0/20,AU-NSW
