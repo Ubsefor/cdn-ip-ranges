@@ -9026,6 +9026,7 @@ aws,45.33.165.0/24,ap-east-1
 aws,45.33.166.0/24,us-east-1
 aws,45.33.167.0/24,us-east-1
 aws,45.33.168.0/24,ap-south-1
+aws,45.33.169.0/24,ap-northeast-2
 aws,45.34.0.0/15,eu-south-1
 aws,45.57.128.0/18,ap-southeast-1
 aws,45.113.128.0/22,GLOBAL
@@ -13409,6 +13410,7 @@ aws,2600:1f01:491a::/47,us-west-2
 aws,2600:1f01:491c::/47,eu-west-2
 aws,2600:1f01:491e::/47,sa-east-1
 aws,2600:1f01:4920::/47,ap-east-1
+aws,2600:1f01:4922::/47,ap-northeast-2
 aws,2600:1f10:4000::/36,us-east-1
 aws,2600:1f10:8000::/36,us-east-1
 aws,2600:1f10:c000::/36,us-east-1
