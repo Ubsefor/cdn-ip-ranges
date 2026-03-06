@@ -5258,8 +5258,11 @@ aws,1.178.100.0/24,us-west-1
 aws,1.178.101.0/24,ap-northeast-3
 aws,1.178.102.0/24,ap-southeast-5
 aws,1.178.103.0/24,ap-east-1
+aws,1.178.172.0/23,GLOBAL
 aws,1.178.174.0/24,eu-north-1
 aws,1.179.2.0/23,us-east-2
+aws,1.179.14.0/23,GLOBAL
+aws,1.179.60.0/23,GLOBAL
 aws,3.0.0.0/15,ap-southeast-1
 aws,3.0.5.32/29,ap-southeast-1
 aws,3.0.5.224/27,ap-southeast-1
@@ -6506,6 +6509,7 @@ aws,15.129.30.0/24,sa-east-1
 aws,15.129.31.0/24,eu-west-1
 aws,15.129.32.0/23,us-east-1
 aws,15.129.34.0/23,us-west-1
+aws,15.129.36.0/23,eu-south-1
 aws,15.134.0.0/16,ap-southeast-2
 aws,15.134.66.0/23,ap-southeast-2
 aws,15.135.0.0/16,ap-southeast-2
