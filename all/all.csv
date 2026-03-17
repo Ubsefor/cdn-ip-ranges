@@ -6520,6 +6520,8 @@ aws,15.129.32.0/23,us-east-1
 aws,15.129.34.0/23,us-west-1
 aws,15.129.36.0/23,eu-south-1
 aws,15.129.38.0/23,ap-southeast-1
+aws,15.129.40.0/23,us-west-2
+aws,15.129.42.0/23,sa-east-1
 aws,15.134.0.0/16,ap-southeast-2
 aws,15.134.66.0/23,ap-southeast-2
 aws,15.135.0.0/16,ap-southeast-2
