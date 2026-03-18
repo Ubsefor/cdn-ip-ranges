@@ -7723,6 +7723,7 @@ aws,16.64.0.0/17,us-gov-east-1
 aws,16.64.36.0/23,us-gov-east-1
 aws,16.64.102.0/23,us-gov-east-1
 aws,16.65.0.0/16,us-gov-east-1
+aws,16.65.74.0/23,us-gov-east-1
 aws,16.66.0.0/16,us-gov-east-1
 aws,16.67.0.0/16,us-gov-east-1
 aws,16.71.0.0/18,us-west-2
@@ -14630,12 +14631,16 @@ aws,2606:7b40:9fd::/48,us-west-2
 aws,2606:7b40:a3e:200::/60,us-west-2
 aws,2606:7b40:a3e:270::/60,us-west-2
 aws,2606:7b40:a3e:280::/60,us-west-2
+aws,2606:7b40:a3e:400::/54,us-west-2
 aws,2606:7b40:a3e:1000::/54,us-west-2
 aws,2606:7b40:a3e:1400::/54,us-west-2
 aws,2606:7b40:a3e:3000::/54,us-west-2
+aws,2606:7b40:a3e:3400::/54,us-west-2
+aws,2606:7b40:a3e:3800::/54,us-west-2
 aws,2606:7b40:a3e:3c00::/54,us-west-2
 aws,2606:7b40:a3e:6000::/54,us-west-2
 aws,2606:7b40:a3e:6400::/54,us-west-2
+aws,2606:7b40:a3e:6800::/54,us-west-2
 aws,2606:7b40:1000:2000::/56,us-west-2
 aws,2606:7b40:1000:2100::/56,us-west-2
 aws,2606:7b40:1000:2270::/60,us-west-2
