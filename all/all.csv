@@ -14631,16 +14631,8 @@ aws,2606:7b40:a3e:270::/60,us-west-2
 aws,2606:7b40:a3e:280::/60,us-west-2
 aws,2606:7b40:a3e:1000::/54,us-west-2
 aws,2606:7b40:a3e:1400::/54,us-west-2
-aws,2606:7b40:a3e:1800::/54,us-west-2
-aws,2606:7b40:a3e:1c00::/54,us-west-2
 aws,2606:7b40:a3e:3000::/54,us-west-2
-aws,2606:7b40:a3e:3400::/54,us-west-2
-aws,2606:7b40:a3e:3800::/54,us-west-2
 aws,2606:7b40:a3e:3c00::/54,us-west-2
-aws,2606:7b40:a3e:5000::/54,us-west-2
-aws,2606:7b40:a3e:5400::/54,us-west-2
-aws,2606:7b40:a3e:5800::/54,us-west-2
-aws,2606:7b40:a3e:5c00::/54,us-west-2
 aws,2606:7b40:a3e:6000::/54,us-west-2
 aws,2606:7b40:a3e:6400::/54,us-west-2
 aws,2606:7b40:1000:2000::/56,us-west-2
