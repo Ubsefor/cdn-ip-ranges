@@ -7518,8 +7518,6 @@ aws,15.248.128.0/21,ap-east-2
 aws,15.248.136.0/24,us-west-1
 aws,15.248.137.0/24,eu-central-1
 aws,15.248.138.0/24,us-east-1
-aws,15.248.139.1/32,us-east-1
-aws,15.248.139.2/32,us-east-1
 aws,15.248.140.0/24,us-east-1
 aws,15.248.141.0/24,ap-southeast-1
 aws,15.248.142.0/24,eu-central-1
@@ -8778,6 +8776,7 @@ aws,40.194.0.0/16,ap-south-2
 aws,40.195.0.0/16,ap-south-2
 aws,40.201.0.0/16,ca-west-1
 aws,40.235.64.0/18,us-east-1
+aws,40.235.192.0/18,us-east-2
 aws,40.238.0.0/16,ap-southeast-2
 aws,40.239.0.0/16,ap-southeast-2
 aws,43.192.0.0/16,cn-northwest-1
@@ -13676,10 +13675,6 @@ aws,2600:1f60:a400::/40,ca-west-1
 aws,2600:1f60:c000::/40,us-west-1
 aws,2600:1f60:e000::/40,sa-east-1
 aws,2600:1f60:ec00::/40,sa-west-1
-aws,2600:1f60:ec00::/56,sa-west-1
-aws,2600:1f60:ec40::/48,sa-west-1
-aws,2600:1f60:ec80::/48,sa-west-1
-aws,2600:1f60:ecc0::/48,sa-west-1
 aws,2600:1f61:1000::/40,ca-central-1
 aws,2600:1f61:2000::/40,us-gov-west-1
 aws,2600:1f61:4000::/39,us-west-2
@@ -14403,6 +14398,7 @@ aws,2600:f0f0:c047::/48,ap-northeast-1
 aws,2600:f0f0:c048::/48,ap-southeast-1
 aws,2600:f0f0:c049::/48,ap-southeast-2
 aws,2600:f0f1:10::/47,us-east-1
+aws,2600:f0f1:12::/47,us-east-1
 aws,2600:f0f1:80::/48,eu-west-2
 aws,2600:f0f1:81::/48,sa-east-1
 aws,2600:f0f1:82::/48,us-west-1
