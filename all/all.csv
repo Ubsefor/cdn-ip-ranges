@@ -14612,7 +14612,6 @@ aws,2606:7b40:9fd::/48,us-west-2
 aws,2606:7b40:a3e:200::/60,us-west-2
 aws,2606:7b40:a3e:270::/60,us-west-2
 aws,2606:7b40:a3e:280::/60,us-west-2
-aws,2606:7b40:a3e:400::/54,us-west-2
 aws,2606:7b40:a3e:1000::/54,us-west-2
 aws,2606:7b40:a3e:1400::/54,us-west-2
 aws,2606:7b40:a3e:3000::/54,us-west-2
@@ -14620,8 +14619,6 @@ aws,2606:7b40:a3e:3400::/54,us-west-2
 aws,2606:7b40:a3e:3800::/54,us-west-2
 aws,2606:7b40:a3e:3c00::/54,us-west-2
 aws,2606:7b40:a3e:6000::/54,us-west-2
-aws,2606:7b40:a3e:6400::/54,us-west-2
-aws,2606:7b40:a3e:6800::/54,us-west-2
 aws,2606:7b40:1000:2000::/56,us-west-2
 aws,2606:7b40:1000:2100::/56,us-west-2
 aws,2606:7b40:1000:2270::/60,us-west-2
@@ -16834,6 +16831,7 @@ cloudflare,123.253.174.0/24,
 cloudflare,131.0.72.0/22,
 cloudflare,131.167.255.0/24,
 cloudflare,137.66.96.0/24,
+cloudflare,138.226.212.0/23,
 cloudflare,138.226.234.0/24,
 cloudflare,138.249.21.0/24,
 cloudflare,138.249.126.0/24,
@@ -17395,6 +17393,7 @@ cloudflare,172.68.2.0/24,
 cloudflare,172.68.3.0/24,
 cloudflare,172.68.4.0/24,
 cloudflare,172.68.5.0/24,
+cloudflare,172.68.6.0/24,
 cloudflare,172.68.7.0/24,
 cloudflare,172.68.8.0/24,
 cloudflare,172.68.9.0/24,
@@ -18789,6 +18788,7 @@ cloudflare,2400:cb00:786::/48,
 cloudflare,2400:cb00:788::/48,
 cloudflare,2400:cb00:789::/48,
 cloudflare,2400:cb00:790::/48,
+cloudflare,2400:cb00:792::/48,
 cloudflare,2400:cb00:793::/48,
 cloudflare,2400:cb00:795::/48,
 cloudflare,2400:cb00:798::/48,
@@ -19215,6 +19215,7 @@ cloudflare,2400:cb00:a6a4::/48,
 cloudflare,2400:cb00:a6b1::/48,
 cloudflare,2400:cb00:a6b2::/48,
 cloudflare,2400:cb00:a6b3::/48,
+cloudflare,2400:cb00:a6b4::/48,
 cloudflare,2400:cb00:a6b5::/48,
 cloudflare,2400:cb00:a6d1::/48,
 cloudflare,2400:cb00:a6d2::/48,
@@ -20588,6 +20589,7 @@ cloudflare,2400:cb00:ec48::/48,
 cloudflare,2400:cb00:ecd1::/48,
 cloudflare,2400:cb00:ecd2::/48,
 cloudflare,2400:cb00:ecd3::/48,
+cloudflare,2400:cb00:ecd4::/48,
 cloudflare,2400:cb00:ecd5::/48,
 cloudflare,2400:cb00:ece1::/48,
 cloudflare,2400:cb00:ece2::/48,
