@@ -37284,7 +37284,7 @@ oracle,50.116.86.0/23,
 oracle,50.116.88.0/22,
 oracle,50.116.92.0/22,
 oracle,50.116.124.0/22,
-oracle,51.170.32.0/19,
+oracle,51.170.32.0/19,eu-madrid-1
 oracle,62.115.179.220/31,eu-amsterdam-1
 oracle,62.115.179.228/31,eu-amsterdam-1
 oracle,64.39.97.0/24,
@@ -37460,7 +37460,7 @@ oracle,82.27.123.0/24,
 oracle,82.29.42.0/24,
 oracle,82.29.69.0/24,
 oracle,82.70.32.0/19,eu-stockholm-1
-oracle,82.70.64.0/19,
+oracle,82.70.64.0/19,eu-madrid-3
 oracle,82.70.224.0/20,eu-marseille-1
 oracle,82.70.248.0/22,eu-marseille-1
 oracle,84.8.64.0/21,
