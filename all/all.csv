@@ -6233,6 +6233,7 @@ aws,13.166.0.0/15,us-gov-west-1
 aws,13.184.0.0/13,us-east-2
 aws,13.192.0.0/16,ap-northeast-1
 aws,13.193.0.0/16,ap-northeast-1
+aws,13.193.210.0/23,ap-northeast-1
 aws,13.194.0.0/15,ap-northeast-1
 aws,13.196.0.0/14,ap-northeast-1
 aws,13.200.0.0/15,ap-south-1
@@ -8276,6 +8277,7 @@ aws,31.220.252.0/24,us-gov-east-1
 aws,32.184.0.0/13,us-west-2
 aws,32.192.0.0/13,us-east-1
 aws,32.192.104.4/30,us-east-1
+aws,32.194.144.0/23,us-east-1
 aws,32.200.0.0/13,us-east-1
 aws,32.232.0.0/16,ap-northeast-1
 aws,32.236.0.0/15,ap-southeast-2
