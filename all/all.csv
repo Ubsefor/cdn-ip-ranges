@@ -8644,10 +8644,13 @@ aws,35.97.128.0/24,eu-central-1
 aws,35.97.129.0/24,us-west-2
 aws,35.97.130.0/24,eu-west-1
 aws,35.97.131.0/24,us-west-2
+aws,35.97.144.0/20,eu-west-2
 aws,35.97.192.0/24,us-west-2
 aws,35.97.193.0/24,eu-central-1
 aws,35.97.194.0/24,eu-west-1
 aws,35.97.208.0/20,us-east-1
+aws,35.97.224.0/20,eu-central-1
+aws,35.97.240.0/20,eu-west-3
 aws,35.111.128.0/22,us-east-2
 aws,35.111.132.0/22,us-east-2
 aws,35.111.136.0/22,us-east-2
@@ -14889,6 +14892,7 @@ aws,2631:0:7::/48,eu-west-1
 aws,2631:0:8::/48,eu-central-1
 aws,2631:0:9::/48,us-west-2
 aws,2631:0:a::/48,us-west-2
+aws,2631:0:1600::/39,us-west-2
 aws,2631:0:1800::/39,us-west-2
 aws,2631:1:101::/48,eu-west-1
 aws,2631:1:105::/48,us-west-2
