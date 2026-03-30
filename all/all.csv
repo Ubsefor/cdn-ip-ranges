@@ -5233,7 +5233,6 @@ aws,1.178.31.0/24,ap-east-2
 aws,1.178.64.0/24,ap-northeast-1
 aws,1.178.65.0/24,us-west-2
 aws,1.178.72.0/21,GLOBAL
-aws,1.178.86.0/23,us-east-1
 aws,1.178.88.0/24,ap-south-1
 aws,1.178.89.0/24,ap-southeast-1
 aws,1.178.90.0/24,eu-west-3
@@ -6914,7 +6913,6 @@ aws,15.230.0.12/31,sa-east-1
 aws,15.230.0.14/32,sa-east-1
 aws,15.230.1.0/24,ap-south-1
 aws,15.230.3.0/24,ap-southeast-1
-aws,15.230.4.16/32,ap-southeast-3
 aws,15.230.4.17/32,ap-southeast-3
 aws,15.230.4.19/32,ap-southeast-1
 aws,15.230.4.128/32,ap-southeast-1
@@ -7525,6 +7523,7 @@ aws,15.248.160.0/24,us-east-1
 aws,15.248.161.0/24,us-west-2
 aws,15.248.162.0/32,us-west-2
 aws,15.248.162.1/32,us-west-2
+aws,15.248.164.0/24,us-east-1
 aws,15.248.168.0/21,sa-west-1
 aws,15.249.0.0/16,ap-south-2
 aws,15.251.0.0/32,us-west-1
