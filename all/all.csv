@@ -14142,6 +14142,7 @@ aws,2600:f0f0:720::/48,eu-central-1
 aws,2600:f0f0:721::/48,eu-central-1
 aws,2600:f0f0:730::/48,ap-southeast-1
 aws,2600:f0f0:731::/48,ap-southeast-1
+aws,2600:f0f0:cfb::/48,us-east-2
 aws,2600:f0f0:cfc::/48,us-west-2
 aws,2600:f0f0:cfd::/48,us-east-2
 aws,2600:f0f0:cfe::/48,us-east-2
