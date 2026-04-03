@@ -14910,6 +14910,7 @@ aws,2631:0:8::/48,eu-central-1
 aws,2631:0:9::/48,us-west-2
 aws,2631:0:a::/48,us-west-2
 aws,2631:0:200::/39,eu-central-1
+aws,2631:0:400::/39,eu-west-3
 aws,2631:0:1000::/39,eu-west-1
 aws,2631:0:1400::/39,eu-central-1
 aws,2631:0:1600::/39,us-west-2
