@@ -8652,6 +8652,7 @@ aws,35.97.194.0/24,eu-west-1
 aws,35.97.208.0/20,us-east-1
 aws,35.97.224.0/20,eu-central-1
 aws,35.97.240.0/20,eu-west-1
+aws,35.98.0.0/20,eu-west-3
 aws,35.111.128.0/22,us-east-2
 aws,35.111.132.0/22,us-east-2
 aws,35.111.136.0/22,us-east-2
