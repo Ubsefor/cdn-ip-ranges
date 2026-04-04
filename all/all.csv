@@ -8652,6 +8652,9 @@ aws,35.97.224.0/20,eu-central-1
 aws,35.97.240.0/20,eu-west-1
 aws,35.98.0.0/20,eu-west-3
 aws,35.98.16.0/20,eu-west-2
+aws,35.98.32.0/20,ca-central-1
+aws,35.98.48.0/20,us-east-2
+aws,35.98.64.0/20,us-east-1
 aws,35.111.128.0/22,us-east-2
 aws,35.111.132.0/22,us-east-2
 aws,35.111.136.0/22,us-east-2
@@ -14911,7 +14914,11 @@ aws,2631:0:a::/48,us-west-2
 aws,2631:0:200::/39,eu-central-1
 aws,2631:0:400::/39,eu-west-3
 aws,2631:0:600::/39,eu-west-2
+aws,2631:0:800::/39,ca-central-1
+aws,2631:0:a00::/39,us-east-2
+aws,2631:0:c00::/39,us-east-1
 aws,2631:0:1000::/39,eu-west-1
+aws,2631:0:1200::/39,sa-east-1
 aws,2631:0:1400::/39,eu-central-1
 aws,2631:0:1600::/39,us-west-2
 aws,2631:0:1800::/39,us-west-2
