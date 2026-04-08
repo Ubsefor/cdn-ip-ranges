@@ -12756,6 +12756,7 @@ aws,2400:6700::/48,ap-northeast-1
 aws,2400:6700:ff00::/48,ap-northeast-1
 aws,2400:7fc0::/40,cn-north-1
 aws,2400:7fc0:110::/48,cn-north-1
+aws,2400:7fc0:110::/56,cn-north-1
 aws,2400:7fc0:200::/40,cn-north-1
 aws,2400:7fc0:500::/40,GLOBAL
 aws,2400:7fc0:2100::/40,cn-north-1
