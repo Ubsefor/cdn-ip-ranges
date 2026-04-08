@@ -8385,6 +8385,8 @@ aws,35.50.141.0/24,us-east-1
 aws,35.50.142.0/24,us-east-2
 aws,35.50.143.0/24,us-east-2
 aws,35.50.144.0/24,us-east-2
+aws,35.50.160.0/24,us-east-2
+aws,35.50.161.0/24,us-east-2
 aws,35.50.176.0/24,sa-east-1
 aws,35.50.177.0/24,sa-east-1
 aws,35.50.178.0/24,sa-east-1
@@ -14280,6 +14282,8 @@ aws,2600:f0f0:5400::/48,ap-northeast-2
 aws,2600:f0f0:5401::/48,ap-northeast-2
 aws,2600:f0f0:5402::/48,ap-northeast-2
 aws,2600:f0f0:5403::/48,me-south-1
+aws,2600:f0f0:5404::/48,us-east-2
+aws,2600:f0f0:5405::/48,us-east-2
 aws,2600:f0f0:5500::/48,us-west-2
 aws,2600:f0f0:5502::/48,us-west-2
 aws,2600:f0f0:5503::/48,us-east-1
