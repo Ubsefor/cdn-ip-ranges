@@ -6771,6 +6771,7 @@ aws,15.207.13.128/25,ap-south-1
 aws,15.207.213.128/25,ap-south-1
 aws,15.216.0.0/16,eu-south-2
 aws,15.217.0.0/16,eu-south-2
+aws,15.217.96.0/24,eu-south-2
 aws,15.220.0.0/20,us-west-2
 aws,15.220.16.0/20,us-west-2
 aws,15.220.32.0/21,us-west-2
@@ -14213,6 +14214,8 @@ aws,2600:f0f0:e30::/48,ap-southeast-1
 aws,2600:f0f0:e31::/48,ap-northeast-2
 aws,2600:f0f0:e32::/48,ap-northeast-2
 aws,2600:f0f0:e33::/48,ap-northeast-2
+aws,2600:f0f0:e34::/48,us-east-2
+aws,2600:f0f0:e35::/48,us-east-2
 aws,2600:f0f0:f00::/56,us-east-1
 aws,2600:f0f0:f00:100::/56,us-east-1
 aws,2600:f0f0:f00:200::/56,us-east-1
