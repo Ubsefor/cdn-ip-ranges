@@ -7751,6 +7751,7 @@ aws,16.170.199.0/26,eu-north-1
 aws,16.171.48.0/22,eu-north-1
 aws,16.171.80.0/22,eu-north-1
 aws,16.174.0.0/16,ca-west-1
+aws,16.174.54.0/23,ca-west-1
 aws,16.175.0.0/16,ca-west-1
 aws,16.176.0.0/16,ap-southeast-2
 aws,16.176.35.128/25,ap-southeast-2
