@@ -5629,10 +5629,12 @@ aws,3.43.64.0/18,us-east-2
 aws,3.43.128.0/18,af-south-1
 aws,3.43.192.0/18,me-south-1
 aws,3.44.0.0/18,ap-southeast-1
+aws,3.44.5.128/25,ap-southeast-1
 aws,3.44.64.0/18,ap-southeast-2
 aws,3.44.64.128/25,ap-southeast-2
 aws,3.44.128.0/18,ap-northeast-1
 aws,3.44.192.0/18,sa-east-1
+aws,3.44.193.128/25,sa-east-1
 aws,3.45.0.0/18,ap-east-1
 aws,3.45.64.0/18,us-gov-west-1
 aws,3.64.0.0/12,eu-central-1
@@ -7850,6 +7852,7 @@ aws,18.96.128.0/19,us-west-1
 aws,18.96.160.0/19,il-central-1
 aws,18.96.192.0/19,eu-south-2
 aws,18.96.224.0/19,ap-south-1
+aws,18.96.231.0/25,ap-south-1
 aws,18.97.0.0/18,us-east-1
 aws,18.97.33.128/25,us-east-1
 aws,18.97.64.0/20,ap-southeast-5
@@ -7877,12 +7880,14 @@ aws,18.99.32.0/19,ap-southeast-1
 aws,18.99.64.0/19,ap-northeast-1
 aws,18.99.75.128/25,ap-northeast-1
 aws,18.99.96.0/20,eu-north-1
+aws,18.99.100.128/25,eu-north-1
 aws,18.99.112.0/20,us-gov-east-1
 aws,18.99.128.0/20,ca-west-1
 aws,18.99.129.0/25,ca-west-1
 aws,18.99.144.0/20,af-south-1
 aws,18.99.160.0/20,ap-south-2
 aws,18.99.176.0/20,ap-east-1
+aws,18.99.177.0/25,ap-east-1
 aws,18.99.192.0/20,ap-southeast-4
 aws,18.99.193.0/25,ap-southeast-4
 aws,18.99.208.0/20,eu-south-1
@@ -12882,11 +12887,13 @@ aws,2406:da18::/35,ap-southeast-1
 aws,2406:da18:752:6600::/56,ap-southeast-1
 aws,2406:da18:7ff:f800::/56,ap-southeast-1
 aws,2406:da18:fff:f800::/56,ap-southeast-1
+aws,2406:da18:1580:b00::/56,ap-southeast-1
 aws,2406:da18:8000::/36,ap-southeast-1
 aws,2406:da19::/36,ap-southeast-3
 aws,2406:da19:14b:8c00::/56,ap-southeast-3
 aws,2406:da1a::/35,ap-south-1
 aws,2406:da1a:74a:4b00::/56,ap-south-1
+aws,2406:da1a:9d0:b800::/56,ap-south-1
 aws,2406:da1a:8000::/36,ap-southeast-1
 aws,2406:da1b::/36,ap-south-2
 aws,2406:da1b:d1d:8800::/56,ap-south-2
@@ -12898,6 +12905,7 @@ aws,2406:da1c:fff:f800::/56,ap-southeast-2
 aws,2406:da1c:8000::/36,ap-east-2
 aws,2406:da1d::/36,ap-northeast-1
 aws,2406:da1e::/32,ap-east-1
+aws,2406:da1e:10e:a00::/56,ap-east-1
 aws,2406:da1e:da1:3c00::/56,ap-east-1
 aws,2406:da1f::/36,ap-southeast-4
 aws,2406:da1f:51b:1a00::/56,ap-southeast-4
@@ -13584,6 +13592,7 @@ aws,2600:1f1d:8000::/36,us-west-2
 aws,2600:1f1d:c000::/36,us-west-2
 aws,2600:1f1e::/36,sa-east-1
 aws,2600:1f1e:7ff:f800::/56,sa-east-1
+aws,2600:1f1e:cd1:5100::/56,sa-east-1
 aws,2600:1f1e:d1d:e700::/56,sa-east-1
 aws,2600:1f1e:fff:f800::/56,sa-east-1
 aws,2600:1f1e:4000::/36,ca-central-1
@@ -14999,6 +15008,7 @@ aws,2a05:d014:15a0:7500::/56,eu-central-1
 aws,2a05:d014:17a8:8b00::/56,eu-central-1
 aws,2a05:d015::/36,il-central-1
 aws,2a05:d016::/36,eu-north-1
+aws,2a05:d016:116:3d00::/56,eu-north-1
 aws,2a05:d016:494:f00::/56,eu-north-1
 aws,2a05:d017::/36,eu-west-2
 aws,2a05:d018::/35,eu-west-1
@@ -34748,6 +34758,7 @@ digitalocean,2604:a880:4:1d0::/64,US-CA
 digitalocean,2604:a880:5:1::/64,US-GA
 digitalocean,2604:a880:6:7::/64,US-VA
 digitalocean,2604:a880:7:7::/64,US-MO
+digitalocean,2604:a880:8:7::/64,
 digitalocean,2604:a880:400:d0::/64,US-NJ
 digitalocean,2604:a880:400:d1::/64,US-NJ
 digitalocean,2604:a880:800:10::/64,US-NJ
