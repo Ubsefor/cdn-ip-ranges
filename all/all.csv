@@ -13857,6 +13857,8 @@ aws,2600:1fbb:a400::/40,ca-west-1
 aws,2600:1fbb:c000::/40,us-west-1
 aws,2600:1fbb:e000::/40,sa-east-1
 aws,2600:1fbb:ec00::/40,sa-west-1
+aws,2600:1fe0:6000::/40,us-east-2
+aws,2600:1fe2:6000::/40,us-east-2
 aws,2600:1fe9:1000::/40,ca-central-1
 aws,2600:1fe9:2000::/40,us-gov-west-1
 aws,2600:1fe9:4000::/39,us-west-2
