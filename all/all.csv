@@ -12557,6 +12557,7 @@ aws,172.106.0.0/15,ap-southeast-1
 aws,173.83.192.0/22,us-east-2
 aws,173.83.196.0/23,eu-central-1
 aws,173.83.198.0/24,ap-northeast-2
+aws,173.83.199.0/24,us-east-1
 aws,173.83.200.0/22,us-east-1
 aws,173.83.204.0/23,us-west-2
 aws,173.83.206.0/23,eu-west-2
