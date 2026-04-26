@@ -14656,6 +14656,7 @@ aws,2605:9cc0:1fff:fc00::/54,us-east-1
 aws,2605:b140:1000::/48,us-west-2
 aws,2605:b140:9800::/48,us-west-1
 aws,2605:b140:9801::/48,us-west-2
+aws,2605:b140:9802::/48,us-east-1
 aws,2606:f40::/39,us-east-1
 aws,2606:f40:400::/39,us-west-2
 aws,2606:f40:800::/40,us-east-2
