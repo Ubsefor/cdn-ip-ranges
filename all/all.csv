@@ -8404,6 +8404,7 @@ aws,35.34.101.0/24,us-west-1
 aws,35.34.102.0/24,ap-east-1
 aws,35.34.103.0/24,ap-northeast-2
 aws,35.34.104.0/24,ap-southeast-4
+aws,35.34.105.0/24,eu-west-3
 aws,35.42.0.0/16,eu-south-2
 aws,35.43.0.0/16,eu-south-2
 aws,35.44.0.0/15,eu-south-2
@@ -9092,6 +9093,7 @@ aws,45.33.171.0/24,ap-southeast-4
 aws,45.33.172.0/24,eu-west-1
 aws,45.33.173.0/24,ap-southeast-3
 aws,45.33.174.0/24,ap-south-1
+aws,45.33.175.0/24,eu-west-3
 aws,45.34.0.0/15,eu-south-1
 aws,45.57.128.0/18,ap-southeast-1
 aws,45.113.128.0/22,GLOBAL
@@ -11252,6 +11254,8 @@ aws,69.107.12.176/29,ap-southeast-3
 aws,69.107.12.184/29,ap-southeast-3
 aws,69.107.12.192/29,ap-south-1
 aws,69.107.12.200/29,ap-south-1
+aws,69.107.12.208/29,eu-west-3
+aws,69.107.12.216/29,eu-west-3
 aws,69.230.192.0/18,cn-northwest-1
 aws,69.230.219.0/24,cn-northwest-1
 aws,69.230.226.0/24,cn-northwest-1
@@ -14504,7 +14508,6 @@ aws,2600:f0f0:c049::/48,ap-southeast-2
 aws,2600:f0f1:10::/47,us-east-1
 aws,2600:f0f1:12::/47,us-east-1
 aws,2600:f0f1:14::/48,GLOBAL
-aws,2600:f0f1:15::/48,GLOBAL
 aws,2600:f0f1:18::/46,us-east-1
 aws,2600:f0f1:80::/48,eu-west-2
 aws,2600:f0f1:81::/48,sa-east-1
