@@ -8816,6 +8816,7 @@ aws,40.168.228.0/24,GLOBAL
 aws,40.168.229.0/24,GLOBAL
 aws,40.168.230.0/24,GLOBAL
 aws,40.168.231.0/24,GLOBAL
+aws,40.168.255.0/24,us-west-2
 aws,40.172.0.0/16,me-central-1
 aws,40.172.11.96/29,me-central-1
 aws,40.172.11.104/29,me-central-1
