@@ -7537,6 +7537,10 @@ aws,15.248.160.0/24,us-east-1
 aws,15.248.161.0/24,us-west-2
 aws,15.248.162.0/32,us-west-2
 aws,15.248.162.1/32,us-west-2
+aws,15.248.162.2/32,us-west-2
+aws,15.248.162.3/32,us-west-2
+aws,15.248.162.4/32,us-west-2
+aws,15.248.162.5/32,us-west-2
 aws,15.248.164.0/24,us-east-1
 aws,15.248.168.0/21,sa-west-1
 aws,15.249.0.0/16,ap-south-2
@@ -14524,7 +14528,6 @@ aws,2600:f0f0:c048::/48,ap-southeast-1
 aws,2600:f0f0:c049::/48,ap-southeast-2
 aws,2600:f0f1:10::/47,us-east-1
 aws,2600:f0f1:12::/47,us-east-1
-aws,2600:f0f1:14::/48,GLOBAL
 aws,2600:f0f1:16::/47,us-east-1
 aws,2600:f0f1:18::/46,us-east-1
 aws,2600:f0f1:80::/48,eu-west-2
@@ -29150,7 +29153,6 @@ constant,2602:ff03:7a::/48,
 constant,2602:ff03:7b::/48,
 constant,2602:ff03:7d::/48,
 constant,2602:ff03:7f::/48,
-constant,2602:ff03:80::/48,
 constant,2602:ff03:83::/48,
 constant,2602:ff03:85::/48,
 constant,2602:ff03:86::/48,
@@ -29290,7 +29292,6 @@ constant,2602:ff03:178::/48,
 constant,2602:ff03:179::/48,
 constant,2602:ff03:17a::/48,
 constant,2602:ff03:17b::/48,
-constant,2602:ff03:17c::/48,
 constant,2602:ff03:17f::/48,
 constant,2602:ff03:180::/48,
 constant,2602:ff03:182::/48,
@@ -29350,7 +29351,6 @@ constant,2602:ff03:1de::/48,
 constant,2602:ff03:1df::/48,
 constant,2602:ff03:1e3::/48,
 constant,2602:ff03:1e4::/48,
-constant,2602:ff03:1e5::/48,
 constant,2602:ff03:1e6::/48,
 constant,2602:ff03:1e7::/48,
 constant,2602:ff03:1e8::/48,
@@ -29434,7 +29434,6 @@ constant,2602:ff03:263::/48,
 constant,2602:ff03:264::/48,
 constant,2602:ff03:267::/48,
 constant,2602:ff03:268::/48,
-constant,2602:ff03:26d::/48,
 constant,2602:ff03:26f::/48,
 constant,2602:ff03:271::/48,
 constant,2602:ff03:272::/48,
@@ -29897,7 +29896,6 @@ constant,2602:ff03:5ac::/48,
 constant,2602:ff03:5ae::/48,
 constant,2602:ff03:5b1::/48,
 constant,2602:ff03:5b4::/48,
-constant,2602:ff03:5b6::/48,
 constant,2602:ff03:5b7::/48,
 constant,2602:ff03:5b9::/48,
 constant,2602:ff03:5ba::/48,
@@ -30025,7 +30023,6 @@ constant,2602:ff03:6ad::/48,
 constant,2602:ff03:6af::/48,
 constant,2602:ff03:6b1::/48,
 constant,2602:ff03:6b3::/48,
-constant,2602:ff03:6b4::/48,
 constant,2602:ff03:6b6::/48,
 constant,2602:ff03:6ba::/48,
 constant,2602:ff03:6bb::/48,
@@ -30585,7 +30582,6 @@ constant,2602:ff03:abe::/48,
 constant,2602:ff03:abf::/48,
 constant,2602:ff03:ac0::/48,
 constant,2602:ff03:ac1::/48,
-constant,2602:ff03:ac2::/48,
 constant,2602:ff03:ac3::/48,
 constant,2602:ff03:ac4::/48,
 constant,2602:ff03:ac5::/48,
@@ -31064,7 +31060,6 @@ constant,2602:ff03:df4::/48,
 constant,2602:ff03:df5::/48,
 constant,2602:ff03:df9::/48,
 constant,2602:ff03:dfa::/48,
-constant,2602:ff03:dfb::/48,
 constant,2602:ff03:dfc::/48,
 constant,2602:ff03:dfd::/48,
 constant,2602:ff03:dfe::/48,
@@ -31084,6 +31079,7 @@ constant,2602:ff03:e1b::/48,
 constant,2602:ff03:e1c::/48,
 constant,2602:ff03:e1d::/48,
 constant,2602:ff03:e1e::/48,
+constant,2602:ff03:e1f::/48,
 constant,2602:ff03:e20::/48,
 constant,2602:ff03:e21::/48,
 constant,2602:ff03:e24::/48,
@@ -31411,7 +31407,6 @@ constant,2a0b:64c5::/33,
 constant,2a0b:64c5:8000::/33,
 constant,2a0d:2680:2111::/48,
 constant,2a0d:2680:bf90::/48,
-constant,2a0e:7d45:775b::/48,
 constant,2a0e:7d45:775c::/48,
 constant,2a0e:7d45:775d::/48,
 constant,2a0e:7d45:775e::/48,
@@ -31422,7 +31417,7 @@ constant,2a0e:7d45:7762::/48,
 constant,2a0e:7d45:7763::/48,
 constant,2a0e:7d45:7764::/48,
 constant,2a0e:7d45:7765::/48,
-constant,2a0e:7d45:7806::/48,
+constant,2a0e:7d45:7766::/48,
 constant,2a0e:7d45:7807::/48,
 constant,2a0e:7d45:7808::/48,
 constant,2a0e:7d45:7809::/48,
@@ -31434,6 +31429,7 @@ constant,2a0e:7d45:780e::/48,
 constant,2a0e:7d45:780f::/48,
 constant,2a0e:7d45:7810::/48,
 constant,2a0e:7d45:7811::/48,
+constant,2a0e:7d45:7812::/48,
 constant,2a0e:9d40::/32,
 constant,2a0e:b107:df2::/48,
 constant,2a0e:b800:aaaa::/48,
@@ -31507,7 +31503,6 @@ constant,2a10:ccc1:447::/48,
 constant,2a10:ccc1:449::/48,
 constant,2a10:ccc1:44a::/48,
 constant,2a10:ccc1:44b::/48,
-constant,2a10:ccc1:44c::/48,
 constant,2a10:ccc1:44f::/48,
 constant,2a10:ccc1:450::/48,
 constant,2a10:ccc1:453::/48,
@@ -40666,7 +40661,6 @@ oracle,150.230.232.0/21,ap-mumbai-1
 oracle,150.230.240.0/21,me-jeddah-1
 oracle,150.230.248.0/21,ap-chuncheon-1
 oracle,151.106.160.0/19,us-saltlake-2
-oracle,151.106.162.0/24,
 oracle,151.145.32.0/19,ca-montreal-1
 oracle,151.145.64.0/20,ap-tokyo-1
 oracle,151.145.80.0/20,il-jerusalem-1
