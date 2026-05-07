@@ -8296,6 +8296,7 @@ aws,32.192.104.24/29,us-east-1
 aws,32.192.104.128/29,us-east-1
 aws,32.194.144.0/23,us-east-1
 aws,32.197.52.0/23,us-east-1
+aws,32.197.114.0/23,us-east-1
 aws,32.200.0.0/13,us-east-1
 aws,32.232.0.0/16,ap-northeast-1
 aws,32.236.0.0/15,ap-southeast-2
@@ -12769,6 +12770,7 @@ aws,2001:3fc3:a800::/40,eusc-de-east-1
 aws,2001:3fc4:800::/40,eusc-de-east-1
 aws,2001:3fc5:800::/40,eusc-de-east-1
 aws,2001:3fc5:1000::/40,eusc-de-east-1
+aws,2001:3fc5:2000::/40,eusc-de-east-1
 aws,2001:3fc5:8800::/40,eusc-de-east-1
 aws,2001:3fc6::/56,eusc-de-east-1
 aws,2001:3fc6:0:100::/56,eusc-de-east-1
