@@ -13373,6 +13373,7 @@ aws,2406:daf6:4800::/40,ap-southeast-7
 aws,2406:daf6:6000::/40,ap-northeast-3
 aws,2406:daf6:7000::/40,me-central-1
 aws,2406:daf6:8000::/40,ap-southeast-1
+aws,2406:daf6:8000::/48,ap-southeast-1
 aws,2406:daf6:8800::/40,ap-southeast-1
 aws,2406:daf6:9000::/40,ap-southeast-3
 aws,2406:daf6:a000::/40,ap-south-1
