@@ -8281,6 +8281,7 @@ aws,23.254.0.0/21,ap-east-2
 aws,23.254.8.0/21,ap-southeast-6
 aws,23.254.16.0/21,me-west-1
 aws,23.254.24.0/23,us-west-2
+aws,23.254.32.0/21,us-south-1
 aws,23.254.120.0/21,sa-west-1
 aws,24.110.0.0/21,GLOBAL
 aws,24.110.8.0/23,us-east-2
@@ -13970,6 +13971,7 @@ aws,2600:1ff4:ec00::/40,sa-west-1
 aws,2600:1ff6:1000::/40,ca-central-1
 aws,2600:1ff6:2000::/40,us-gov-west-1
 aws,2600:1ff6:4000::/39,us-west-2
+aws,2600:1ff6:4000::/48,us-west-2
 aws,2600:1ff6:5000::/40,us-gov-east-1
 aws,2600:1ff6:6000::/40,us-east-2
 aws,2600:1ff6:7400::/40,mx-central-1
