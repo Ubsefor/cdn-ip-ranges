@@ -9182,6 +9182,7 @@ aws,51.72.0.0/15,eusc-de-east-1
 aws,51.74.0.0/20,eusc-de-east-1
 aws,51.74.16.0/24,eusc-de-east-1
 aws,51.74.17.0/24,eusc-de-east-1
+aws,51.74.128.0/18,eusc-de-east-1
 aws,51.74.192.0/18,GLOBAL
 aws,51.84.0.0/16,il-central-1
 aws,51.85.0.0/16,il-central-1
@@ -13977,6 +13978,7 @@ aws,2600:1ff6:4000::/39,us-west-2
 aws,2600:1ff6:4000::/48,us-west-2
 aws,2600:1ff6:5000::/40,us-gov-east-1
 aws,2600:1ff6:6000::/40,us-east-2
+aws,2600:1ff6:6000::/48,us-east-2
 aws,2600:1ff6:7400::/40,mx-central-1
 aws,2600:1ff6:8000::/39,us-east-1
 aws,2600:1ff6:a400::/40,ca-west-1
@@ -15421,6 +15423,7 @@ aws,2a05:d076:4000::/40,eu-central-1
 aws,2a05:d076:5000::/40,il-central-1
 aws,2a05:d076:6000::/40,eu-north-1
 aws,2a05:d076:8000::/40,eu-west-1
+aws,2a05:d076:8000::/48,eu-west-1
 aws,2a05:d076:9000::/40,eu-central-2
 aws,2a05:d076:a000::/40,eu-south-1
 aws,2a05:d076:b000::/40,eu-central-1
