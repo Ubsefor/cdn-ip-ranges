@@ -9368,7 +9368,6 @@ aws,52.82.188.0/22,cn-northwest-1
 aws,52.82.192.0/18,cn-northwest-1
 aws,52.83.0.0/16,cn-northwest-1
 aws,52.83.5.0/26,cn-northwest-1
-aws,52.83.25.128/27,cn-northwest-1
 aws,52.83.25.160/27,cn-northwest-1
 aws,52.83.26.0/26,cn-northwest-1
 aws,52.83.26.64/26,cn-northwest-1
