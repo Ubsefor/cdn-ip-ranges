@@ -6404,6 +6404,7 @@ aws,13.248.78.0/24,ap-east-2
 aws,13.248.79.0/24,ap-southeast-6
 aws,13.248.80.0/24,me-west-1
 aws,13.248.81.0/24,sa-west-1
+aws,13.248.82.0/24,us-south-1
 aws,13.248.96.0/24,eu-west-1
 aws,13.248.97.0/24,eu-central-1
 aws,13.248.98.0/24,ap-northeast-1
